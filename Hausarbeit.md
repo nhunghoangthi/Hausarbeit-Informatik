@@ -8,6 +8,8 @@
 
 ## Die Entwicklung der Transistoren
 
+## Die Zeit der mobilen Endgeräte
+
 ## Zusammenfassung
 
 ## Literatur
