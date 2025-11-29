@@ -8,6 +8,8 @@
 
 ## Die Entwicklung der Transistoren
 
+## Die Entwicklung der Integrierten Schaltkreise
+
 ## Die Zeit der mobilen Endgeräte
 
 ## Zusammenfassung
