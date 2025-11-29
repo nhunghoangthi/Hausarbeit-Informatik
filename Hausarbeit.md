@@ -4,6 +4,8 @@
 
 ## Die erten Computer bis 1945
 
+Heute git Konrad Zuse als der Erfinder des Computers.
+
 ## Die Entwicklung der Röhren-Computer
 
 ## Die Entwicklung der Transistoren
